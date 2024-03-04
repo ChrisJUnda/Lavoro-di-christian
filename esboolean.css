@@ -1,0 +1,67 @@
+body{
+    background-image: url(background.jpg);
+    background-size:cover;
+}
+.container{
+    width: 1000px;
+    margin: auto;
+    background-color:black;
+    opacity: 70%;
+    border-radius: 10px 10px 10px 10px;
+}
+
+.logo{
+    width: 200px;
+}
+
+.frase{
+    text-align: center;
+    color: rgb(44, 220, 5); 
+    font-family: Arial;
+    font-size: 40px;
+}
+
+.tasti{
+    background-color: rgb(44, 220, 5);
+    width: 1000px;
+    text-align: center;
+    padding: 5px;
+}
+
+.Monopattini1{
+    display: inline-block;
+    color: white;
+    font-family: arial;
+}
+
+.via{
+    color: white;
+    font-family: arial;
+}
+
+.caricamedia{
+    width: 300px;
+    height: 30px;
+    background-color: rgb(244, 169, 30);
+    color: rgb(244, 169, 30);
+}
+
+.caricaalta{
+    width: 500px;
+    height: 30px;
+    background-color: rgb(4, 166, 4);
+    color: rgb(4, 166, 4);
+}
+
+.caricabassa{
+    width: 150px;
+    height: 30px;
+    background-color: rgb(207, 16, 16);
+    color: rgb(207, 16, 16);
+}
+
+.footer{
+color: white;
+text-align: center;
+font-family: arial;
+}
